@@ -1,0 +1,8 @@
+{
+  "name": "Lumen Folio",
+  "description": "An interactive studio where visitors talk with an AI companion and curate multi-column picture boards with descriptions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
